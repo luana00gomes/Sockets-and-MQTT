@@ -1,0 +1,25 @@
+{
+  "name": "sockets-and-mqtt",
+  "version": "1.0.0",
+  "description": "Application that uses MQTT and Sockets protocol for communication",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luana00gomes/Sockets-and-MQTT.git"
+  },
+  "keywords": [
+    "sockets"
+  ],
+  "author": "luana-gomes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luana00gomes/Sockets-and-MQTT/issues"
+  },
+  "homepage": "https://github.com/luana00gomes/Sockets-and-MQTT#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
