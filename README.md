@@ -1,11 +1,10 @@
-For using the 
-pip install -r requirements.txt
+# Requirements
+$ pip install -r requirements.txt
+$ snap install mosquitto
 
-snap install mosquitto
 
-
-#Running
-$node index.js
+# Running
+$ node index.js
 
 
 Access the application at localhost:5000
